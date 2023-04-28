@@ -14,5 +14,5 @@
 
 - run
     -  `sbt run`
-- `sbt console` 
-    - start a Scala 3 REPL.
+- REPL
+    - `sbt console`
